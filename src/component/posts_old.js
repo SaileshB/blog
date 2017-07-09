@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 
-static class AlertMe extends Component{
+class AlertMe extends Component{
     render(){
         return (
             <div>
